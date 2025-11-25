@@ -1,0 +1,12 @@
+{
+    "moregame": [
+    ],
+    "android_1.0.0:1.0.9": {"mode": "real","ad": ["am", "ir"],"am": "01", "ir": "01","adFrequency": 2},
+    "android_1.0.4": {"mode": "icon","ad": ["am", "ir"],"am": "01", "ir": "01","adFrequency": 2},
+    
+    "ios_1.0.0:1.0.9": {"mode": "real","ad": ["am", "ir"],"am": "01","ir": "01","adFrequency": 2},
+    "ios_1.0.9": {"mode": "icon","ad": ["am", "ir"],"am": "01","ir": "01","adFrequency": 2},
+    
+    "android": {"mode": "real","ad": ["am", "ir"],"am": "01","ir": "01","adFrequency": 2},
+    "ios": {"mode": "real","ad": ["am", "ir"],"am": "01","ir": "01","adFrequency": 2}
+}

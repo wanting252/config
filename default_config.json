@@ -1,0 +1,4 @@
+{
+    "android": { "mode": "real", "ads": ["am","ir"], "am": "01","ir": "01", "adFrequency": 2 },
+    "ios": { "mode": "real", "ads": ["am","ir"], "am": "01","ir": "01", "adFrequency": 2 }
+}
