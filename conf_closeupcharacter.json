@@ -1,11 +1,11 @@
 {
     "moregame": [
     ],
-    "android_1.4.0:1.5.5": {"mode": "real","ad": ["am", "ir"], "am": "01", "ir": "01", "adFrequency": 2},
-    "android_1.5.7": {"mode": "icon","ad": ["am", "ir"],"am": "01","ir": "01","adFrequency": 2},
+    "android_1.4.0:1.5.7": {"mode": "real","ad": ["am", "ir"], "am": "01", "ir": "01", "adFrequency": 2},
+    "android_1.5.8": {"mode": "icon","ad": ["am", "ir"],"am": "01","ir": "01","adFrequency": 2},
 	
-    "ios_1.4.0:1.5.5": {"mode": "real","ad": ["am", "ir"], "am": "01", "ir": "01", "adFrequency": 2},
-    "ios_1.5.7": {"mode": "icon","ad": ["am", "ir"],"am": "01","ir": "01","adFrequency": 2},
+    "ios_1.4.0:1.5.7": {"mode": "real","ad": ["am", "ir"], "am": "01", "ir": "01", "adFrequency": 2},
+    "ios_1.5.8": {"mode": "icon","ad": ["am", "ir"],"am": "01","ir": "01","adFrequency": 2},
     
     "android": {"mode": "icon","ad": ["am", "ir"],"am": "01","ir": "01","adFrequency": 2},
     "ios": {"mode": "icon","ad": ["am", "ir"],"am": "01","ir": "01","adFrequency": 2}
